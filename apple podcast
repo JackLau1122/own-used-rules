@@ -1,0 +1,17 @@
+
+# Apple Podcasts
+DOMAIN,fpinit.itunes.apple.com,PROXY
+DOMAIN,entitlements-edge.itunes.apple.com,PROXY
+DOMAIN,setup.icloud.com,PROXY
+DOMAIN,play.itunes.apple.com,PROXY
+DOMAIN,bag.itunes.apple.com,PROXY
+DOMAIN,bookkeeper.itunes.apple.com,PROXY
+DOMAIN,amp-api.podcast.apple.com,PROXY
+DOMAIN,podcasts.apple.com,PROXY
+DOMAIN,lookup-api.apple.com,PROXY
+DOMAIN,xp.apple.com,PROXY
+DOMAIN,podcast.apple.com,PROXY
+DOMAIN,past.im,PROXY
+DOMAIN,amp-api.podcasts.apple.com,PROXY
+DOMAIN,itunes.apple.com,PROXY
+DOMAIN,buy.itunes.apple.com,PROXY
