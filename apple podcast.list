@@ -1,16 +1,23 @@
-# Apple Podcasts
-DOMAIN,fpinit.itunes.apple.com
-DOMAIN,entitlements-edge.itunes.apple.com
-DOMAIN,setup.icloud.com
-DOMAIN,play.itunes.apple.com
-DOMAIN,bag.itunes.apple.com
-DOMAIN,bookkeeper.itunes.apple.com
-DOMAIN,amp-api.podcast.apple.com
-DOMAIN,podcasts.apple.com
-DOMAIN,lookup-api.apple.com
-DOMAIN,xp.apple.com
-DOMAIN,podcast.apple.com
-DOMAIN,past.im
-DOMAIN,amp-api.podcasts.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,buy.itunes.apple.com
+# ============================================
+# Apple Podcast 全域走代理（含音频 CDN）
+# ============================================
+
+# Podcast 主站与 API
+DOMAIN-SUFFIX,podcasts.apple.com,Proxy
+DOMAIN-SUFFIX,itunes.apple.com,Proxy
+DOMAIN,aod-ssl.itunes.apple.com,Proxy
+DOMAIN,audio-ssl.itunes.apple.com,Proxy
+DOMAIN,radio.itunes.apple.com,Proxy
+DOMAIN,amp-api.podcasts.apple.com,Proxy
+DOMAIN,podcast.apple.com,Proxy
+
+# 静态资源与 CDN（封面、节目简介）
+DOMAIN-SUFFIX,mzstatic.com,Proxy
+DOMAIN-SUFFIX,cdn-apple.com,Proxy
+DOMAIN-SUFFIX,apple.com.edgekey.net,Proxy
+DOMAIN-SUFFIX,akamaized.net,Proxy
+
+# 加兜底关键字：Podcast 相关流量一律走代理
+DOMAIN-KEYWORD,podcast,Proxy
+DOMAIN-KEYWORD,itunes,Proxy
+DOMAIN-KEYWORD,aod,Proxy
