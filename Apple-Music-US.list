@@ -1,0 +1,14 @@
+# Apple Music Live / Radio / Editorial
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,radio.apple.com
+
+# Apple Music Metadata / Live API
+DOMAIN-SUFFIX,amp-api.music.apple.com
+DOMAIN-SUFFIX,api.music.apple.com
+
+# Apple Music Live Media
+DOMAIN-SUFFIX,video-apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+
+# Apple Media Services
+DOMAIN-SUFFIX,itunes.apple.com
