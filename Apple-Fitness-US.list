@@ -1,0 +1,12 @@
+# Apple Fitness+ Core
+DOMAIN-SUFFIX,fitness.apple.com
+DOMAIN-SUFFIX,fitness-app.apple.com
+
+# Fitness+ Video / Media CDN
+DOMAIN-SUFFIX,video-apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-assets.apple.com
+
+# Apple Media Services (Fitness+ required)
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,aod.itunes.apple.com
