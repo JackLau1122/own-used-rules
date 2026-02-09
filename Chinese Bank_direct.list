@@ -1,0 +1,15 @@
+# 招行
+DOMAIN-SUFFIX,cmbchina.com,DIRECT
+DOMAIN-SUFFIX,cmbimg.com,DIRECT
+
+# 工行
+DOMAIN-SUFFIX,icbc.com.cn,DIRECT
+
+# 民生
+DOMAIN-SUFFIX,cmbc.com.cn,DIRECT
+
+# 证书/风控（建议保留）
+DOMAIN-SUFFIX,cfca.com.cn,DIRECT
+DOMAIN-SUFFIX,digicert.com,DIRECT
+DOMAIN-SUFFIX,verisign.com,DIRECT
+DOMAIN-SUFFIX,entrust.net,DIRECT
