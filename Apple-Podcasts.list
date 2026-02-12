@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 DOMAIN-SUFFIX,podcastsconnect.apple.com
 DOMAIN-SUFFIX,podcasts.itunes.apple.com
 
-# iTunes / Store API (Podcasts 常用)
+# iTunes / Store API
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,api-edge.itunes.apple.com
 DOMAIN-SUFFIX,se.itunes.apple.com
@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,play.itunes.apple.com
 DOMAIN-SUFFIX,search.itunes.apple.com
 DOMAIN-SUFFIX,buy.itunes.apple.com
 
-# 资源/CDN（封面、图片等）
+# Assets / CDN
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-cloudkit.com
