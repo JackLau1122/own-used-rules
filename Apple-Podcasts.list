@@ -1,18 +1,13 @@
-#!name=Podcast (Apple Podcasts)
-#!desc=Apple Podcasts 域名规则集（导入 Surge 后在 Rule Set 里自行选择策略/节点）
-#!author=ChatGPT
+# Apple Podcasts Web / Connect / API
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN-SUFFIX,podcastsconnect.apple.com
+DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 
-[Rule]
-# Apple Podcasts (主要域名/接口)
-DOMAIN,podcasts.apple.com
-DOMAIN,podcastsconnect.apple.com
-DOMAIN,amp-api.podcasts.apple.com
+# Apple Media Services (Podcasts 常会走到这些)
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,api-edge.itunes.apple.com
+DOMAIN-SUFFIX,buy.itunes.apple.com
 
-# iTunes/Apple 媒体相关（Podcasts 常会走到这些）
-DOMAIN,itunes.apple.com
-DOMAIN,api-edge.itunes.apple.com
-DOMAIN,buy.itunes.apple.com
-
-# 资源与图片 CDN
+# Assets / Images
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,aaplimg.com
