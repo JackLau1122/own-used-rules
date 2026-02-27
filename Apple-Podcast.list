@@ -14,7 +14,16 @@ DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
 DOMAIN-SUFFIX,podcasts.appleusercontent.com
 DOMAIN-SUFFIX,appleusercontent.com
 
-# Apple News (for Apple News Today)
+# Apple News
 DOMAIN-SUFFIX,news.apple.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,news-assets.apple.com
+
+# Apple News Media CDN
+DOMAIN-SUFFIX,cdn.apple-news.net
+DOMAIN-SUFFIX,apple-news.net
+DOMAIN-SUFFIX,news-edge.apple.com
+
+# 兜底 Apple CDN
+DOMAIN-SUFFIX,appleusercontent.com
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
