@@ -1,8 +1,0 @@
-
-# --- LinkedIn ---
-DOMAIN-SUFFIX,linkedin.com,LinkedIn
-DOMAIN-SUFFIX,licdn.com,LinkedIn
-DOMAIN-SUFFIX,lnkd.in,LinkedIn
-DOMAIN-KEYWORD,linkedin,LinkedIn
-DOMAIN-KEYWORD,licdn,LinkedIn
-USER-AGENT,LinkedIn*,LinkedIn
